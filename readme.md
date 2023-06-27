@@ -1,1 +1,1 @@
-### This is sample readme file
+### This is sample readme file after enabled branch protection
