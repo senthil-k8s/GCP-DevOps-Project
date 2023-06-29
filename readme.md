@@ -1,1 +1,5 @@
-### This is sample readme file after enabled branch protection
+### Docker python flask application
+
+- This application is written in python
+- It should be deployed on GKE
+
