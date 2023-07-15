@@ -9,7 +9,7 @@ spec:
       app: gcp
   template:
     metadata:
-      matchLabels:
+      labels:
         app: gcp
     spec:
       containers: 
@@ -19,4 +19,4 @@ spec:
         - containerPort: 5000
         env:
           - name: PORT 
-            values: "5000"
+            value: "5000"
