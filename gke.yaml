@@ -9,7 +9,7 @@ spec:
       app: gcp
   template:
     metadata:
-      matchLabels:
+      labels:
         app: gcp
     spec:
       containers: 
